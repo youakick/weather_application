@@ -1,4 +1,6 @@
 body {
+  background-color: rgba(232, 218, 245, 0.6);
+  background-image: url(./img/128692-pogoda-nebo-prognozirovanie_pogody-ravnina-prirodnyj_landshaft-1920x1080.jpg);
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
